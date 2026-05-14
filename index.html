@@ -15,15 +15,7 @@
     <link rel="manifest" href="./manifest.json">
 </head>
 
-<body onload="setTimeout(function(){window.scrollTo(0,1)},1);">
-    <script>
-        /** Microsoft CDN Migration */
-        try {
-            window.setUpMigration(window.migrateData);
-        } catch (error) {
-            console.log(error);
-        }
-    </script>
+<body>
     <div id="ajaxbar">
         <div id="game"><canvas id="canvas"></canvas></div>
         <div id="orientate"></div>
