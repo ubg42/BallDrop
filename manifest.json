@@ -4,7 +4,7 @@
     "short_name": "BallDropGame",
     "description": "Tap to jump over obstacles, don’t touch the spikes! Can you get the ball safely to the end zone without exploding?",
     "ms_start_compatible": true,
-    "start_url": "./index.html",
+    "start_url": "index.html",
     "scope": "./",
     "display": "standalone",
     "theme_color": "#2f3d58",
@@ -12,29 +12,29 @@
     "orientation": "any",
     "icons": [
         {
-            "src": "./media/graphics/promo/icons/512x512.png",
+            "src": "media/graphics/promo/icons/512x512.png",
             "sizes": "512x512"
         },
         {
-            "src": "./media/graphics/promo/icons/1080x1080.png",
+            "src": "media/graphics/promo/icons/1080x1080.png",
             "sizes": "1080x1080"
         },
         {
-            "src": "./media/graphics/promo/banners/1920x1080.png",
+            "src": "media/graphics/promo/banners/1920x1080.png",
             "sizes": "1920x1080"
         }
     ],
     "screenshots": [
         {
-            "src": "./media/graphics/promo/screenshots/1.png",
+            "src": "media/graphics/promo/screenshots/1.png",
             "sizes": "1920x1080"
         },
         {
-            "src": "./media/graphics/promo/screenshots/2.png",
+            "src": "media/graphics/promo/screenshots/2.png",
             "sizes": "1920x1080"
         },
         {
-            "src": "./media/graphics/promo/screenshots/3.png",
+            "src": "media/graphics/promo/screenshots/3.png",
             "sizes": "1920x1080"
         }
     ]
