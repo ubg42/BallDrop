@@ -27103,7 +27103,7 @@ var MobileAdInGamePreroll = {
 		'ajaxSettings': {
 			'url': _0x5e0f1a['href'],
 			'type': 'GET',
-			'isLocal': /^(?:about|app|app-storage|.+-extension|file|res|widget):$/ ['test'](_0x5e0f1a['protocol']),
+
 			'global': !0x0,
 			'processData': !0x0,
 			'async': !0x0,
